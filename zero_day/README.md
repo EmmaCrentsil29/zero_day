@@ -1,1 +1,1 @@
-#This is vagrant
+#!/bin/bash
